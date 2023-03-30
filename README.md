@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hello, I'm Angelo Huaraca
 
-<!--
-**ahuaracab/ahuaracab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I help teams to improve the quality of their software products
 
-Here are some ideas to get you started:
+I'm a **Test Automation Engineer** from **Peru**.
+I have knowledge in **BackEnd** and **FrontEnd** web development, also in **Ethical Hacking**.
 
 - 🔭 I’m currently working on SimpliRoute
 - 🌱 I’m currently learning BlockChain Testing
@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with BlockChain Testing Projects
 - 💬 Ask me about Test Automation
 - 📫 How to reach me: ahuaracab@gmail.com
-- ⚡ Tools:
+
+### Tools:
 1. Cypress
 2. Playwright
 3. Cucumber
@@ -23,4 +24,3 @@ Here are some ideas to get you started:
 9. Slack
 10. AWS
 11. GCP
--->
