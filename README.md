@@ -5,9 +5,9 @@
 I'm a **Test Automation Engineer** from **Peru**.
 I have knowledge in **BackEnd** and **FrontEnd** web development, also in **Ethical Hacking**.
 
-- 🔭 I’m currently working on SimpliRoute
-- 🌱 I’m currently learning BlockChain Testing
-- 👯 I’m looking to collaborate on BlockChain Testing Projects
+- 🔭 I’m currently working as a freelancer
+- 🌱 I’m currently learning Project Management
+- 👯 I’m looking to collaborate as a Test Lead
 - 🤔 I’m looking for help with BlockChain Testing Projects
 - 💬 Ask me about Test Automation
 - 📫 How to reach me: ahuaracab@gmail.com
