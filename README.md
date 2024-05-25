@@ -8,7 +8,6 @@ I have knowledge in **BackEnd** and **FrontEnd** web development, also in **Ethi
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Project Management
 - 👯 I’m looking to collaborate as a Test Lead
-- 🤔 I’m looking for help with BlockChain Testing Projects
 - 💬 Ask me about Test Automation
 - 📫 How to reach me: ahuaracab@gmail.com
 
